@@ -1,0 +1,7 @@
+.vscode
+/bootstrap-4.1.3-dist
+/pages
+/PHPMailer-master
+contact.php
+.DS_Store
+.htaccess
